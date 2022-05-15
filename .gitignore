@@ -1,0 +1,6 @@
+#  Notebook files
+.ipynb*
+# Data Set
+ABERSHIP_transcription_vtls004566921
+#Processed data set - too big for Github
+complete_set.csv
