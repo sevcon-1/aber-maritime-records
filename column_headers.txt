@@ -1,0 +1,17 @@
+Mariners_name
+Year_of_birth
+Age
+Place_of_birth
+Home_Address
+Blank
+Name_of_last_ship
+Port_last_ship_belonged_to
+Date_of_leaving_last_ship
+Date_joining_this_ship
+Port_of_joining_this_ship
+Capacity_this_ship
+Date_Left_Port
+Port_of_Leaving
+Cause_for_leaving_or_Remain_on_board
+Signed_with_a_mark_(Y/N)
+Any_Additional_Notes
